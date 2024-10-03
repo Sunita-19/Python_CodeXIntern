@@ -99,13 +99,6 @@
 
         <p><strong>Example Conversation:</strong></p>
         <pre><code>
-> Hi
-Chatbot: Hello! How are you today?
-> I am good
-Chatbot: That's wonderful to hear! What made your day so great?
-> bye
-Chatbot: Goodbye! Have a nice day!
-        </code></pre>
 
         <hr>
 
