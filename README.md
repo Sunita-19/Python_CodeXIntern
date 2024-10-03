@@ -16,7 +16,7 @@
 
         <hr>
 
-        <h2 id="data-analysis-with-pandas">1. Data Analysis with Pandas</h2>
+        <h2>1. Data Analysis with Pandas</h2>
         <p><strong>Project Description:</strong> This project demonstrates basic data analysis techniques using the Pandas library in Python. The task involved loading a CSV file and performing basic operations such as finding the average of a column, summarizing data, and analyzing key insights.</p>
         <p><strong>Features:</strong></p>
         <ul>
@@ -37,7 +37,7 @@
 
         <hr>
 
-        <h2 id="data-visualization-with-matplotlib-and-seaborn">2. Data Visualization with Matplotlib and Seaborn</h2>
+        <h2>2. Data Visualization with Matplotlib and Seaborn</h2>
         <p><strong>Project Description:</strong> In this project, I explored various visualization techniques using Matplotlib and Seaborn. The dataset was visualized using bar charts, scatter plots, and heatmaps to better understand trends, correlations, and patterns.</p>
         <p><strong>Features:</strong></p>
         <ul>
@@ -58,7 +58,7 @@
 
         <hr>
 
-        <h2 id="command-line-email-sender">3. Command-Line E-Mail Sender</h2>
+        <h2>3. Command-Line E-Mail Sender</h2>
         <p><strong>Project Description:</strong> This project showcases a command-line tool that sends emails using the Simple Mail Transfer Protocol (SMTP). It supports sending plain-text emails with or without attachments via the terminal.</p>
         <p><strong>Features:</strong></p>
         <ul>
@@ -79,7 +79,7 @@
 
         <hr>
 
-        <h2 id="command-line-chatbot">4. Command-Line Chatbot</h2>
+        <h2>4. Command-Line Chatbot</h2>
         <p><strong>Project Description:</strong> This is a simple command-line chatbot that interacts with users via text input. The chatbot uses basic conditional logic to handle conversations, answer predefined questions, and perform simple tasks like setting reminders.</p>
         <p><strong>Features:</strong></p>
         <ul>
@@ -108,7 +108,6 @@
 
         <h2>Contact</h2>
         <p>Feel free to connect with me on <a href="https://www.linkedin.com">LinkedIn</a> or check out my other projects on <a href="https://github.com/yourusername">GitHub</a>.</p>
-    </div>
 
 </body>
 </html>
