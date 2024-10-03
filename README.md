@@ -8,10 +8,10 @@
 
         <h2>Table of Contents</h2>
         <ul>
-            <li><a href="#data-analysis-with-pandas">Data Analysis with Pandas</a></li>
-            <li><a href="#data-visualization-with-matplotlib-and-seaborn">Data Visualization with Matplotlib and Seaborn</a></li>
-            <li><a href="#command-line-email-sender">Command-Line E-Mail Sender</a></li>
-            <li><a href="#command-line-chatbot">Command-Line Chatbot</a></li>
+            <li>Data Analysis with Pandas</a></li>
+            <li>Data Visualization with Matplotlib and Seaborn</a></li>
+            <li>Command-Line E-Mail Sender</a></li>
+            <li>Command-Line Chatbot</a></li>
         </ul>
 
         <hr>
