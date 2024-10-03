@@ -2,7 +2,8 @@
 import pandas as pd
 
 # Load the CSV file into a DataFrame
-df = pd.read_csv('EV.csv')
+df = pd.read_csv('D:\\Python_Internship\\Python_CodeXIntern\\Python_CodeXIntern\\EV.csv')
+
 
 # Display the first 5 rows of the data
 print("First 5 rows of the dataset:")
