@@ -71,7 +71,7 @@ pip install smtplib email
 Clone the repository.
 Modify the Python script with your SMTP credentials and recipient details.
 Run the script:
-python email_sender.py
+python email_sender.py <br>
 
 **Usage Notes:**
 Ensure your SMTP credentials (e.g., Gmail) are set up properly. Use App Passwords if using Gmail and two-step verification.
@@ -93,7 +93,7 @@ No additional libraries are required for this basic chatbot.
 Clone the repository.
 Run the chatbot script:
 bash
-python chatbot.py
+python chatbot.py <br>
 **Example Conversation:**
 
 Chatbot: Hello! How can I assist you today? <br>
