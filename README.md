@@ -33,7 +33,6 @@
             <li>Ensure the dataset (CSV file) is in the same directory.</li>
             <li>Run the Python script:</li>
         </ol>
-        <pre><code>python data_analysis_pandas.py</code></pre>
 
         <hr>
 
@@ -54,7 +53,6 @@
             <li>Ensure the dataset is available.</li>
             <li>Execute the script:</li>
         </ol>
-        <pre><code>python data_visualization.py</code></pre>
 
         <hr>
 
@@ -107,7 +105,7 @@
         <p>This repository is licensed under the MIT License. See the <a href="#">LICENSE</a> file for more information.</p>
 
         <h2>Contact</h2>
-        <p>Feel free to connect with me on <a href="https://www.linkedin.com">LinkedIn</a> or check out my other projects on <a href="https://github.com/yourusername">GitHub</a>.</p>
+        <p>Feel free to connect with me on <a href="www.linkedin.com/in/sunita-yadav-057a75300">LinkedIn</a> or check out my other projects on <a href="https://github.com/Sunita-19">GitHub</a>.</p>
 
 </body>
 </html>
