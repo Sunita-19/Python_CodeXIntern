@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset (update the file path if necessary)
-file_path = 'D:/Python_Internship/EV.csv'  # Make sure this is the correct file path
+file_path = 'D:\Python_Internship\Python_CodeXIntern\Python_CodeXIntern\EV.csv'  # Make sure this is the correct file path
 data = pd.read_csv(file_path)
 
 # Set plot style
@@ -28,15 +28,18 @@ plt.legend(loc='best')
 plt.show()
 
 # 3. Heatmap: Correlation between numerical features
-plt.figure(figsize=(12, 8))
+plt.figure(figsize=(12, 10))  # Adjust the height for better visibility
 corr = data[['Battery Capacity (kWh)', 'Charging Duration (hours)', 'Energy Consumed (kWh)', 
              'Charging Rate (kW)', 'Charging Cost (USD)', 'State of Charge (Start %)', 
              'State of Charge (End %)', 'Distance Driven (since last charge) (km)', 
              'Temperature (°C)', 'Vehicle Age (years)']].corr()
 sns.heatmap(corr, annot=True, cmap='coolwarm', linewidths=0.5)
-plt.title('Correlation Heatmap of Numerical Features', fontsize=14)
-plt.show()
 
+# Rotate x-axis labels
+plt.xticks(rotation=45, ha='right')  # Rotate labels to 45 degrees and align to the right
+plt.title('Correlation Heatmap of Numerical Features', fontsize=14)
+plt.tight_layout(pad=3)  # Add padding to avoid clipping
+plt.show()
 # 4. Distribution Plot: Charging Cost and Charging Duration
 plt.figure(figsize=(14, 6))
 
