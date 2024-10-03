@@ -94,6 +94,7 @@ Clone the repository.
 Run the chatbot script:
 bash
 python chatbot.py <br>
+
 **Example Conversation:**
 
 Chatbot: Hello! How can I assist you today? <br>
@@ -101,6 +102,7 @@ You: How are you? <br>
 Chatbot: I'm doing well, thank you! How can I help you? <br>
 You: Bye <br>
 Chatbot: Goodbye! <br>
+
 **Contributing**
 If you'd like to contribute to these projects or suggest improvements, feel free to submit a pull request or open an issue.
 
