@@ -4,49 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Python Internship Projects</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        h2 {
-            color: #0056b3;
-        }
-        p {
-            line-height: 1.6;
-        }
-        code {
-            background-color: #eaeaea;
-            padding: 5px;
-            border-radius: 5px;
-        }
-        pre {
-            background-color: #eaeaea;
-            padding: 10px;
-            border-left: 4px solid #0056b3;
-            overflow-x: auto;
-        }
-        a {
-            color: #0056b3;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .container {
-            max-width: 1000px;
-            margin: auto;
-            background: #fff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-    </style>
 </head>
 <body>
 
