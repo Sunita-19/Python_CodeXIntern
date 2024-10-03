@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-        <h1>Python Internship Projects by Sunita Yadav</h1>
+        <h1>Python Internship Projects</h1>
         <p>Welcome to my Python Internship repository! This repository includes four key projects I completed during my internship. Each project showcases essential Python skills such as data analysis, data visualization, and command-line applications. Feel free to explore the code and adapt it to your needs.</p>
 
         <h2>Table of Contents</h2>
